@@ -1,16 +1,20 @@
 # my-first-project
 ListOperations:https://github.com/Akshata0001/my-first-project/blob/main/Screenshot%202026-04-19%20182650.png
+
+
 ColorSearch:https://github.com/Akshata0001/my-first-project/blob/main/Screenshot%202026-04-19%20183021.png
+
+
 prg1b2.java:https://github.com/Akshata0001/my-first-project/blob/main/prg1b2.png
 prg1b3.java:https://github.com/Akshata0001/my-first-project/blob/main/prg1b3.png
 prg1b4.java:https://github.com/Akshata0001/my-first-project/blob/main/prg1b4.png
 prg1b5.java:https://github.com/Akshata0001/my-first-project/blob/main/prg1b5.png
+prg2a.java:https://github.com/Akshata0001/my-first-project/blob/main/prg2a.png
+prg2b.java:https://github.com/Akshata0001/my-first-project/blob/main/prg2b.png
 3q1.java:https://github.com/Akshata0001/my-first-project/blob/main/3q1.png
 3q2.java:https://github.com/Akshata0001/my-first-project/blob/main/3q1.png
 3q3.java:https://github.com/Akshata0001/my-first-project/blob/main/3q3.png
 3q4.java:https://github.com/Akshata0001/my-first-project/blob/main/3q4.png
-prg2a.java:https://github.com/Akshata0001/my-first-project/blob/main/prg2a.png
-
 3q5.java:https://github.com/Akshata0001/my-first-project/blob/main/3q5.png
 prg4a.java:https://github.com/Akshata0001/my-first-project/blob/main/4a1.png
 prg4b.java:https://github.com/Akshata0001/my-first-project/blob/main/4b.png
