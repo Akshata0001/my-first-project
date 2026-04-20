@@ -1,3 +1,6 @@
+/* . Write a Java Program for Reversing the characters in a string using user defined function reverseString()*/
+
+
 package prg3b1;
 
 public class q3 {
