@@ -17,6 +17,8 @@ prg1c5.java:https://github.com/Akshata0001/my-first-project/blob/main/prg1c5.png
 
 prg2a.java:https://github.com/Akshata0001/my-first-project/blob/main/prg2a.png
 prg2b.java:https://github.com/Akshata0001/my-first-project/blob/main/prg2b.png
+
+p3a.java:https://github.com/Akshata0001/my-first-project/blob/main/p3a.png
 3q1.java:https://github.com/Akshata0001/my-first-project/blob/main/3q1.png
 3q2.java:https://github.com/Akshata0001/my-first-project/blob/main/3q1.png
 3q3.java:https://github.com/Akshata0001/my-first-project/blob/main/3q3.png
